@@ -11,8 +11,8 @@ export const sideScroll = (direction, distance) => {
     }
     scrollAmount += 10;
     if (scrollAmount >= distance) {
-      element.classList.remove("indiana-scroll-container--dragging");
       window.clearInterval(slideTimer);
+      element.classList.remove("indiana-scroll-container--dragging");
     }
-  }, 25);
+  }, 15);
 };
