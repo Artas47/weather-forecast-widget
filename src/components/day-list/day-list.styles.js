@@ -88,8 +88,9 @@ const ScrollButton = css`
   width: 9rem;
   height: 9rem;
   border: none;
-  opacity: 0.8;
+  opacity: 0.3;
   outline: none;
+  background-color: #6e6e6e;
   :after {
     content: " ";
     border-top: 12px solid transparent;

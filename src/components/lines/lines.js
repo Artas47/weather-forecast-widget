@@ -21,7 +21,7 @@ const Lines = () => {
     height: window.innerHeight,
     width: window.innerWidth,
   });
-  //triggering rerenders when resize to postion the lines properly
+  //triggering rerenders when resize to position the lines properly
   useEffect(() => {
     const handleResize = () => {
       setDimensions({

@@ -46,7 +46,7 @@ export const data = [
     temperature: "7",
     rainfall: "0.9",
     windDirection: "zach",
-    windSpeed: "5",
+    windSpeed: "18",
     pressure: "1012",
   },
   {
@@ -56,7 +56,7 @@ export const data = [
     temperature: "6",
     rainfall: "0.8",
     windDirection: "zach",
-    windSpeed: "7",
+    windSpeed: "18",
     pressure: "1012",
   },
   {
@@ -66,7 +66,7 @@ export const data = [
     temperature: "7",
     rainfall: "0.4",
     windDirection: "zach",
-    windSpeed: "8",
+    windSpeed: "18",
     pressure: "1012",
   },
   {
@@ -76,7 +76,7 @@ export const data = [
     temperature: "8",
     rainfall: "0.2",
     windDirection: "pn-zach",
-    windSpeed: "10",
+    windSpeed: "17",
     pressure: "1013",
   },
   {
@@ -296,7 +296,7 @@ export const data = [
     temperature: "8",
     rainfall: "0.8",
     windDirection: "pd-wsch",
-    windSpeed: "5",
+    windSpeed: "14",
     pressure: "1011",
   },
   {
@@ -306,7 +306,7 @@ export const data = [
     temperature: "8",
     rainfall: "1",
     windDirection: "pd-wsch",
-    windSpeed: "5",
+    windSpeed: "15",
     pressure: "1011",
   },
   {
@@ -316,7 +316,7 @@ export const data = [
     temperature: "8",
     rainfall: "1.1",
     windDirection: "pd-wsch",
-    windSpeed: "5",
+    windSpeed: "16",
     pressure: "1012",
   },
   {
@@ -326,7 +326,7 @@ export const data = [
     temperature: "9",
     rainfall: "1.2",
     windDirection: "pn-zach",
-    windSpeed: "5",
+    windSpeed: "25",
     pressure: "1016",
   },
   {
@@ -336,7 +336,7 @@ export const data = [
     temperature: "10",
     rainfall: "0.8",
     windDirection: "pn-zach",
-    windSpeed: "5",
+    windSpeed: "25",
     pressure: "1014",
   },
   {
@@ -346,7 +346,7 @@ export const data = [
     temperature: "11",
     rainfall: "0.6",
     windDirection: "pn-zach",
-    windSpeed: "5",
+    windSpeed: "25",
     pressure: "1014",
   },
   {
@@ -367,7 +367,7 @@ export const data = [
     rainfall: "0",
     windDirection: "pn-zach",
     windSpeed: "5",
-    pressure: "1014",
+    pressure: "1015",
   },
   {
     day: "Jutro",
@@ -377,7 +377,7 @@ export const data = [
     rainfall: "0",
     windDirection: "pn-zach",
     windSpeed: "5",
-    pressure: "1014",
+    pressure: "1015",
   },
   {
     day: "Jutro",
@@ -387,7 +387,7 @@ export const data = [
     rainfall: "0",
     windDirection: "pn-zach",
     windSpeed: "5",
-    pressure: "1014",
+    pressure: "1012",
   },
   {
     day: "Jutro",
@@ -395,9 +395,9 @@ export const data = [
     forecast: "slonecznie",
     temperature: "15",
     rainfall: "0",
-    windDirection: "pn-zach",
+    windDirection: "zach",
     windSpeed: "5",
-    pressure: "1014",
+    pressure: "1012",
   },
   {
     day: "Jutro",
@@ -405,9 +405,9 @@ export const data = [
     forecast: "slonecznie",
     temperature: "17",
     rainfall: "0",
-    windDirection: "pn-zach",
+    windDirection: "zach",
     windSpeed: "5",
-    pressure: "1014",
+    pressure: "1016",
   },
   {
     day: "Jutro",
@@ -415,9 +415,9 @@ export const data = [
     forecast: "slonecznie",
     temperature: "17",
     rainfall: "0",
-    windDirection: "pn-zach",
+    windDirection: "zach",
     windSpeed: "5",
-    pressure: "1014",
+    pressure: "1012",
   },
   {
     day: "Jutro",
@@ -425,9 +425,9 @@ export const data = [
     forecast: "slonecznie",
     temperature: "17",
     rainfall: "0",
-    windDirection: "pn-zach",
+    windDirection: "zach",
     windSpeed: "5",
-    pressure: "1014",
+    pressure: "1010",
   },
   {
     day: "Jutro",
@@ -437,7 +437,7 @@ export const data = [
     rainfall: "0",
     windDirection: "pn-zach",
     windSpeed: "5",
-    pressure: "1014",
+    pressure: "1010",
   },
   {
     day: "Jutro",
@@ -447,7 +447,7 @@ export const data = [
     rainfall: "0",
     windDirection: "pn-zach",
     windSpeed: "5",
-    pressure: "1014",
+    pressure: "1013",
   },
   {
     day: "Jutro",
@@ -455,9 +455,9 @@ export const data = [
     forecast: "pochmurnie",
     temperature: "14",
     rainfall: "0",
-    windDirection: "pn-zach",
+    windDirection: "pn-wsch",
     windSpeed: "5",
-    pressure: "1014",
+    pressure: "1012",
   },
   {
     day: "Jutro",
@@ -465,9 +465,9 @@ export const data = [
     forecast: "pochmurnie",
     temperature: "13",
     rainfall: "0",
-    windDirection: "pn-zach",
+    windDirection: "pn-wsch",
     windSpeed: "5",
-    pressure: "1014",
+    pressure: "1012",
   },
   {
     day: "Jutro",
@@ -475,8 +475,8 @@ export const data = [
     forecast: "pochmurnie",
     temperature: "9",
     rainfall: "0",
-    windDirection: "pn-zach",
+    windDirection: "pn-wsch",
     windSpeed: "5",
-    pressure: "1014",
+    pressure: "1015",
   },
 ];
