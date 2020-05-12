@@ -16,7 +16,7 @@ export const GlobalStyles = createGlobalStyle`
       box-shadow: inset 0 0 0 10px;
     }
   }
-  }
+  
   *,
   *::before,
   *::after {

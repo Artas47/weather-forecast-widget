@@ -29,7 +29,7 @@ export const DayItemCurrentDay = styled.div`
   ${({ hour }) =>
     hour !== "00:00" &&
     css`
-      visibility: hidden;
+      display: none;
     `}
 `;
 export const DayItemHour = styled.div`

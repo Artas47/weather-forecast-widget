@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import DayList from "./components/day-list/day-list";
 import { GlobalStyles } from "./global-styles";
 import Lines from "./components/lines/lines";

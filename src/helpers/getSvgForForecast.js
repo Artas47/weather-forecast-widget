@@ -5,7 +5,7 @@ import { ReactComponent as SunSvg } from "../assets/icons/sun.svg";
 import { ReactComponent as RainSvg } from "../assets/icons/cloud-rain.svg";
 
 const styles = {
-  width: "4.5rem",
+  width: "5rem",
   height: "5rem",
 };
 

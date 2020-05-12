@@ -3,16 +3,16 @@ export const sideScroll = (direction, distance) => {
   let element = document.querySelector(".container");
   let slideTimer = setInterval(function () {
     if (direction === "left") {
-      element.classList.add("indiana-scroll-container--dragging");
       element.scrollLeft -= 10;
-    } else {
       element.classList.add("indiana-scroll-container--dragging");
+    } else {
       element.scrollLeft += 10;
+      element.classList.add("indiana-scroll-container--dragging");
     }
     scrollAmount += 10;
     if (scrollAmount >= distance) {
-      window.clearInterval(slideTimer);
       element.classList.remove("indiana-scroll-container--dragging");
+      window.clearInterval(slideTimer);
     }
   }, 15);
 };
